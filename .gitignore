@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+venv/
+env/
+*/venv/
+
+# Ignore Conda environments
+.conda/
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore compiled Python files
+*.py[cod]
+__pycache__/
+
+# Ignore large files
+*.zip
+*.tar.gz
+*.h5
+*.ckpt
