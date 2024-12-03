@@ -1,6 +1,7 @@
 # Ignore Python virtual environments
 venv/
 env/
+.env
 */venv/
 
 # Ignore Conda environments
