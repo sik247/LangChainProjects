@@ -9,6 +9,9 @@ This repository includes three unique projects designed to leverage AI technolog
 ### **Overview**
 This Streamlit-based application uses **Google Gemini AI** to analyze balance sheets. Users can upload their own financial documents or use the default Apple 2024 Q3 balance sheet to extract meaningful insights and answer accounting-related questions.
 
+![Home Screenshot](https://github.com/sik247/LangChainProjects/blob/main/llmAccountant/images/homescreenshot.png)
+
+
 ### **Features**
 - AI-powered financial analysis for uploaded or default balance sheets.
 - Visual preview of the first page of the balance sheet PDF.
