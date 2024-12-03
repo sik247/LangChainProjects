@@ -37,7 +37,7 @@ streamlit run app.py
   
 
 
-# 🌟 **Project 2: LangChain Q&A Demo
+# 🌟 **Project 2: LangChain Q&A Demo**
 
 ### **Overview**
 This project demonstrates how to use LangChain and OpenAI GPT-3.5 Turbo to build an interactive Q&A application. It allows users to ask questions and get AI-powered responses through a Streamlit interface.
