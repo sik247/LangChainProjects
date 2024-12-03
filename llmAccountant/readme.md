@@ -2,6 +2,9 @@
 
 A powerful **AI-driven financial assistant** designed to extract insights from balance sheets and answer accounting-related queries. Leveraging **Google Gemini AI**, this application reads PDF files and provides detailed, professional-grade financial analysis. The default example uses Apple's 2024 Q3 balance sheet, but users can upload their own financial documents for personalized insights.
 
+![Home Screenshot](https://github.com/sik247/LangChainProjects/blob/main/llmAccountant/images/homescreenshot.png)
+
+
 ---
 
 ## 🚀 Features
