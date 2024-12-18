@@ -1,4 +1,4 @@
-# 📚 **AI Projects Collection**
+# 📚 **LangChain / RAG Projects Collection**
 
 This repository includes three unique projects designed to leverage AI technologies for practical applications like financial analysis and interactive Q&A.
 
